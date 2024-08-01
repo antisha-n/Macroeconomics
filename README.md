@@ -1,5 +1,5 @@
-# Notebooks for Advanced Macroeconomics
-This is a set of interactive [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebooks on topics discussed in beginning graduate level macroeconomics. It's built around the syllabus of the course Macroeconomics (EC413) taught at the LSE by [Matthias Doepke](https://faculty.wcas.northwestern.edu/mdo738/) and [Silvana Tenreyro](https://personal.lse.ac.uk/tenreyro/)(2023-2024). But it also includes some more advanced discussions, or related stuff I find interesting. 
+# Advanced Macroeconomics
+This is a set of interactive [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebooks on topics discussed in graduate level macroeconomics. It's built around the syllabus of the course Macroeconomics (EC413) taught at the LSE by [Matthias Doepke](https://faculty.wcas.northwestern.edu/mdo738/) and [Silvana Tenreyro](https://personal.lse.ac.uk/tenreyro/)(2023-2024). 
 
 Below you can find the links to each notebook, dockerised on [Binder](https://mybinder.org/).
 
